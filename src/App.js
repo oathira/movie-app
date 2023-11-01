@@ -1,14 +1,14 @@
-import React, { Component } from 'react'
 
+import React from 'react'
+import MovieCard from './MovieCard'
 
-class App extends Component {
-  render() {
-    return (
-      
-        <p>homepage</p>
-    
-    )
-  }
+function App () {
+  return (
+    <>
+          
+           <MovieCard/>
+    </>
+  )
 }
 
 export default App
