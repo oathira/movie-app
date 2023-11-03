@@ -116,16 +116,8 @@ footer.starCount {
       margin: 5px;
     
 }
-.rmv-cart-btn{
- 
-    background-color: #db2828;
-    color: #fff;
-    text-shadow: none;
-    margin: 5px;
-  
-}
 .unfavourite-btn {
-  background-color: #5f0808;
+  background-color: #db2828;
   color: #fff;
   text-shadow: none;
   margin: 5px;
